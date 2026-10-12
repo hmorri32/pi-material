@@ -43,7 +43,7 @@
     "searchMatchBg": "findHighlight",
     "searchMatchText": "black",
 
-    "userMessageBg": "inputBackground",
+    "userMessageBg": "backgroundAlt",
     "userMessageText": "foreground",
     "customMessageBg": "backgroundAlt",
     "customMessageText": "sidebarForeground",
